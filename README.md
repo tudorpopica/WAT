@@ -27,6 +27,8 @@ Add your own name (do not add the names for others!) to the section below.
 <!-- - (please make sure the photos have the same size) --> 
 
 ## How to run it
+1. Start the server: server/src/main/java/MainApplication. Right click, and then click Run
+2. Start the client side: client/src/main/java/MainApplication. Right click, and then click Run
 
 ## How to contribute to it
 
